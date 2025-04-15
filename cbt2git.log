@@ -1,5 +1,5 @@
-2025-04-15 04:41:28.903534 - Received CBT.V508.FILE679.PDS from FILE679.XMI 
-2025-04-15 04:41:28.904400 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE679.PDS, moved to PDS/$$$#DATE
-2025-04-15 04:41:28.904926 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE679.PDS, moved to PDS/$$NOTE
-2025-04-15 04:41:28.905248 - Found @FILE679.txt (text/plain) in CBT.V508.FILE679.PDS, moved to PDS/@FILE679
-2025-04-15 04:41:28.905597 - Found VISIO.rexx (text/plain) in CBT.V508.FILE679.PDS, moved to PDS/VISIO
+2025-04-15 23:19:48.366516 - Received CBT.V508.FILE679.PDS from FILE679.XMI 
+2025-04-15 23:19:48.367532 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE679.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:19:48.367843 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE679.PDS, moved to PDS/$$NOTE
+2025-04-15 23:19:48.367896 - Found @FILE679.txt (text/plain) in CBT.V508.FILE679.PDS, moved to PDS/@FILE679
+2025-04-15 23:19:48.368146 - Found VISIO.rexx (text/plain) in CBT.V508.FILE679.PDS, moved to PDS/VISIO
